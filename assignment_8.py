@@ -17,5 +17,5 @@ class Teacher(Person):
         print(f"Subject: {self.subject}")
 
 # Example usage
-t1 = Teacher("Mr. Abdul", "Mathematics")
+t1 = Teacher("Miss, Ayesha", "Mathematics")
 t1.display()
